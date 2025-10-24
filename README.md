@@ -56,16 +56,8 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&text=Software%20Engineer%20&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&text=Software%20Engineer%20&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<h5 align="left">Excited about building efficient software and solving real-programming problems using the latest technologies and algorithms. Ability to understand user needs and collaborate with my team to create reliable and impactful solutions.</h5>
 
 ###
 
@@ -80,5 +72,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB0amxqNm9oYnV0d2Ezb2t4eWZpZmJ5dXBlaWRhb2h1cWo4MmZkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
+
+###
+
+<h5 align="left">Excited about building efficient software and solving real-programming problems using the latest technologies and algorithms. Ability to understand user needs and collaborate with my team to create reliable and impactful solutions.</h5>
 
 ###
