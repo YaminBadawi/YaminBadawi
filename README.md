@@ -59,7 +59,7 @@
 
 ###
 
-<h4 align="center">Excited about building efficient software and solving real-programming problems using the latest technologies and algorithms. Ability to understand user needs and collaborate with my team to create reliable and impactful solutions.</h4>
+<h4 align="left">Excited about building efficient software and solving real-programming problems using the latest technologies and algorithms. Ability to understand user needs and collaborate with my team to create reliable and impactful solutions.</h4>
 
 ###
 
