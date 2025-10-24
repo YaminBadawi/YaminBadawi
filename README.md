@@ -1,20 +1,16 @@
-<h2 align="left">Hi 👋! I am Yamin Badawi</h2>
+<h1 align="center">Hi 👋! I am Yamin Badawi</h1>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&text=Software%20Engineer%20&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=76&section=header&reversal=false&text=Software%20Engineer%20&fontSize=38&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=12&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB0amxqNm9oYnV0d2Ezb2t4eWZpZmJ5dXBlaWRhb2h1cWo4MmZkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YaminBadawi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YaminBadawi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YaminBadawi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -56,6 +52,10 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=0557344265&color=25D366&logoColor=&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB0amxqNm9oYnV0d2Ezb2t4eWZpZmJ5dXBlaWRhb2h1cWo4MmZkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
 
 ###
 
