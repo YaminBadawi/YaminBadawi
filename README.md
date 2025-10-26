@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=76&section=header&reversal=false&text=Software%20Engineer%20&fontSize=38&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=12&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=56&section=header&reversal=false&text=Welcome%20to%20my%20github&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=12&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
 ###
@@ -60,6 +60,14 @@
 ###
 
 <h4 align="left">Excited about building efficient software and solving real-programming problems using the latest technologies and algorithms. Ability to understand user needs and collaborate with my team to create reliable and impactful solutions.</h4>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YaminBadawi.YaminBadawi&"  />
+</div>
+
+###create reliable and impactful solutions.</h4>
 
 ###
 
